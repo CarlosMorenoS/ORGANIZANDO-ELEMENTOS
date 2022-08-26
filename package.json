@@ -1,0 +1,24 @@
+{
+  "name": "MERCADO_LIEBRE_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XmauricioX/MERCADO_LIEBRE_FlexBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XmauricioX/MERCADO_LIEBRE_FlexBox/issues"
+  },
+  "homepage": "https://github.com/XmauricioX/MERCADO_LIEBRE_FlexBox#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
+  }
+}
